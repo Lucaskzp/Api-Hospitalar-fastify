@@ -1,0 +1,14 @@
+{
+  "name": "api-hospitalar-fastify",
+  "version": "1.0.0",
+  "description": "API de gestão hospitalar leve com Node.js e Fastify",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "dependencies": {
+    "fastify": "^4.26.0",
+    "uuid": "^9.0.1"
+  }
+}
