@@ -10,9 +10,9 @@ API desenvolvida por Lucas silva souza com foco em performance e arquitetura lim
 # Como executar
 1. Instale as dependências:
    npm install
-   ```
+   
 2. Inicie o servidor:
    npm run dev
-   ```
+  
 
 A API estará disponível em `http://localhost:3333`.
